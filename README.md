@@ -31,6 +31,6 @@
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <a href="https://www.linkedin.com/in/isaias-s-souza/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-isaias-s-souza-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
