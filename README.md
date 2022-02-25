@@ -11,14 +11,18 @@
 ## 🛠 &nbsp;Tech Stack
 
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-05122A?style=flat&logo=microsoft-sql-server)&nbsp;
+<br>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+<br>
 ![Delphi](https://img.shields.io/badge/-Delphi-05122A?style=flat&logo=delphi)&nbsp;
+<br>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+<br>
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+<br>
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-<br><br>
-
+<br>
+<br>
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
@@ -26,8 +30,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaias-s-souza&layout=compact&theme=vision-friendly-dark" alt="isaias-s-souza's most languages"/>
 </p>
 
-<br><br>
-
+<br>
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <a href="https://www.linkedin.com/in/isaias-s-souza/" target="_blank">
