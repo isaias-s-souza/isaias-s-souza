@@ -1,10 +1,10 @@
-### Hi there 👋
-
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Isaias Souza</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 - 🔥 Junior Developer with focus in data.
 
 - 🔭 I’m currently working at Grupo Adriano Cobuccio more specifically in the company [Cobuccio Tecnologia](https://grupoadrianocobuccio.com.br/empresas-do-grupo/cobuccio-tecnologia.html)
 
-- 💬 Ask me about **SQL Server, Python, Delphi**
+- 💬 Ask me about **SQL Server, Python e Delphi**
 
 <br><br>
 
@@ -18,7 +18,9 @@
 <br>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 <br>
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)&nbsp;
+<br>
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 <br>
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <br>
@@ -31,8 +33,9 @@
 </p>
 
 <br>
+<br>
 ## 👨🏽‍🦲 &nbsp;Social Links
-
+<br>
 <a href="https://www.linkedin.com/in/isaias-s-souza/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
