@@ -1,10 +1,14 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Isaias Souza</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaias-s-souza&color=yellow" alt="Profile views" /> </p>
+<br>
+
 - 🔥 Junior Developer with focus in data.
 
 - 🔭 I’m currently working at Grupo Adriano Cobuccio more specifically in the company [Cobuccio Tecnologia](https://grupoadrianocobuccio.com.br/empresas-do-grupo/cobuccio-tecnologia.html)
 
-- 💬 Ask me about **SQL Server, Python e Delphi**
+- 📚 Graduating in Computer Science at [INSTITUTO FEDERAL DO SUL DE MINAS GERAIS - Campus Muzambinho](https://www.muz.ifsuldeminas.edu.br/)
+
+- 💬 Ask me about **SQL Server, Python e Delphi**.
 
 <br><br>
 
@@ -42,7 +46,7 @@
 </a>
 <br>
 <a href="https://www.facebook.com/isaias.santos.dsouza/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=linkedin" alt="facebook"/>&nbsp;
+  <img align="center" src="https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=facebook" alt="facebook"/>&nbsp;
 </a>
 </p>
 
@@ -59,4 +63,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
 -->
