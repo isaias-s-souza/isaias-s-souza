@@ -29,7 +29,7 @@
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=isaias-s-souza&show_icons=true&theme=vision-friendly-dark" alt="isaias-s-souza's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaias-s-souza&layout=compact&theme=vision-friendly-dark" alt="isaias-s-souza's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaias-s-souza&layout=compact&theme=vision-friendly-dark" alt="isaias-s-souza's most languages"/> </p>
 <br>
 <br>
 ## 👨🏽‍🦲 &nbsp;Social Links
