@@ -50,6 +50,8 @@
 </a>
 </p>
 
+![Snake animation](https://github.com/isaias-s-souza/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **isaias-s-souza/isaias-s-souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
