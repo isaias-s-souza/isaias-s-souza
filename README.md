@@ -50,6 +50,7 @@
 </a>
 </p>
 
+## 🐍 &nbsp;Meus Commits
 ![Snake animation](https://github.com/isaias-s-souza/isaias-s-souza/blob/output/github-contribution-grid-snake.svg)
 
 <!--
