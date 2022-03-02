@@ -45,6 +45,10 @@
   <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>&nbsp;
 </a>
 <br>
+<a href="https://www.hackerrank.com/isaiasssouza99" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-HackerRank-05122A?style=flat&logo=hackerrank" alt="hackerrank"/>&nbsp;
+</a>
+<br>
 <a href="https://www.facebook.com/isaias.santos.dsouza/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=facebook" alt="facebook"/>&nbsp;
 </a>
