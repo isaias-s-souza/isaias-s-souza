@@ -2,13 +2,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaias-s-souza&color=yellow" alt="Profile views" /> </p>
 <br>
 
-- 🔥 Junior Developer with focus in data.
+- 🔥 Mid-Level Developer with focus in data.
 
-- 🔭 I’m currently working at Grupo Adriano Cobuccio more specifically in the company [Cobuccio Tecnologia](https://grupoadrianocobuccio.com.br/empresas-do-grupo/cobuccio-tecnologia.html)
+- 🔭 I’m currently working at [I4PRO](https://www.i4pro.com.br/)
 
 - 📚 Graduating in Computer Science at [INSTITUTO FEDERAL DO SUL DE MINAS GERAIS - Campus Muzambinho](https://www.muz.ifsuldeminas.edu.br/)
 
-- 💬 Ask me about **SQL Server, Python e Delphi**.
+- 💬 Ask me about **T-SQL, Python e Delphi**.
 
 <br><br>
 
