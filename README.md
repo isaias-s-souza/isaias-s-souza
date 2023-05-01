@@ -2,9 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaias-s-souza&color=yellow" alt="Profile views" /> </p>
 <br>
 
-- 🔥 Mid-Level Developer with focus in data.
+- 🔥 Junior Developer with focus in data.
 
-- 🔭 I’m currently working at [I4PRO](https://www.i4pro.com.br/)
+- 🔭 I’m currently working at [SOUTHSYSTEM](https://southsystem.com.br/)
 
 - 📚 Graduating in Computer Science at [INSTITUTO FEDERAL DO SUL DE MINAS GERAIS - Campus Muzambinho](https://www.muz.ifsuldeminas.edu.br/)
 
